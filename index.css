@@ -23,7 +23,18 @@ body {
 .texto{text-align: left;}
 
 @media screen and (max-width: 600px) {
-  .texto{text-align: center;}
+  .texto{
+    text-align: center;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+
+  }
+
+  #chartdiv{
+    height: auto;
+  }
+
 }
 @media screen and (max-width: 1199px) {
   .texto{text-align: center;}
