@@ -198,13 +198,13 @@ polygonSeries.events.on("inited", function () {
 })
 
 var data = {
-  "BR": "Brasil*Bruno<br>Marigoni*Brazil",
-  "CR": "Costa Rica*Renato<br>Souza*costarica",
-  "MX": "Mexico*Alejandra<br>Solis*Mexico",
-  "CO": "Colombia*Marcelo<br>Burbano*Colombia",
-  "EC": "Ecuador*Oliver<br>Klopfstein*Ecuator",
-  "ES": "España*Andrés<br>Cardó*Spain",
-  "US": "Estados Unidos*Hilario<br>Nuño*usa"
+  "BR": "<strong>BRASIL</strong>*<strong>Bruno Marigoni  </strong><br>Sócio, São Paulo  <br><strong>bruno.maringoni@prismapar.com</strong>*Brazil",
+  "CR": "<strong>COSTA RICA</strong>*<strong>Renato Souza</strong><br>Sócio Direto, São José  <br><strong>renato.souza@prismapar.com</strong>*costarica",
+  "MX": "<strong>MEXICO</strong>*<strong>Alejandra Solis</strong><br>Sócia, Cidade do México  <br><strong>alejandra.solis@prismapar.com</strong>*Mexico",
+  "CO": "<strong>COLOMBIA</strong>*<strong>Marcelo Burbano</strong><br>Sócio Diretor, Bogotá  <br><strong>marcelo.burbano@prismapar.com</strong>*Colombia",
+  "EC": "<strong>ECUADOR</strong>*<strong>Oliver Klopfstein</strong><br>Sócio, Guaiaquil  <br><strong>oliver.klopfstein@prismapar.com</strong>*Ecuator",
+  "ES": "<strong>ESPAÑA</strong>*<strong>Andrés Cardó</strong><br>Consultor Sênior, Madrid  <br><strong>spain@prismapar.com</strong>*Spain",
+  "US": "<strong>EUA</strong>*<strong>Hilario Nuño</strong><br>Constultor Sênior, New York  <br><strong>usa@prismapar.com</strong>*usa"
 }
 
 
